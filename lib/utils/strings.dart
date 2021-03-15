@@ -4,7 +4,7 @@ class Strings {
   static const List<String> BURC_ADLARI = [
     "Koc",
     "Boga",
-    "Ikizler",
+    "İkizler",
     "Yengec",
     "Aslan",
     "Basak",
